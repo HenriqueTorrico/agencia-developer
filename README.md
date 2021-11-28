@@ -16,7 +16,7 @@
 <br>
 
 # 💻 Web
-#### ◼ Linguagens utilizadas: HTML e CSS.
+#### ◼ Linguagens utilizadas: HTML, CSS e JS.
 
 <br>
 

@@ -16,10 +16,9 @@
 <br>
 
 # 💻 Web
-#### ◼ Linguagens utilizadas: HTML, CSS, JS
+#### ◼ Linguagens utilizadas: HTML e CSS.
 
 <br>
 
 # 👨‍💻 Site
-#### ◼ Se você leu até aqui é por que você demonstrou interesse hahaha.
-#### ◼ Confira aqui mesmo o link do projeto: <a href="https://torrico-agencia-bold.netlify.app">Ver projeto</a>
+#### ◼ Caso queira visualizar o projeto em seu computador, tablet ou celular clique aqui: <a href="https://torrico-agencia-bold.netlify.app">Ver projeto</a>
